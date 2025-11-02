@@ -2,7 +2,7 @@
 
 ## We make games with freedom inside.
 
-**Falafel Open Games** is a small collective of indie developers and designers who believe that creativity thrives where code is open, art is shared, and ethics matter.
+**Falafel Open Games** is a small collective of indie developers who believe that creativity thrives where code is open, art is shared, and ethics matter.
 We build games for the web and for your brand — games that are fun, honest, and free in every sense of the word.
 
 ---
@@ -37,14 +37,9 @@ We believe **small-scope games** can have **big impact**, and we’re not afraid
 Whether you need a tiny interactive toy or a full-featured indie release, we’ll help you balance scope, budget, and speed without sacrificing quality or ethics.
 
 ---
+## In Summary
 
-## Why “Falafel”?
-
-Because like a falafel, our work is handmade, nutritious, and best when shared.
+Like a falafel, our work is handmade, nutritious, and best when shared.
 Each project is a small, crunchy bite of creativity — prepared with care, seasoned with open culture, and meant to be enjoyed by everyone.
 
----
-
-### **Falafel Open Games**  
 *Open source. Playful spirit. Ethical code.*
-
